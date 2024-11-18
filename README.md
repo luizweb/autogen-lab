@@ -12,7 +12,7 @@ This project uses the AutoGen framework to analyze restaurant reviews, extractin
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:luizweb/autogen-lab.git
 ```
 
 2. Create a virtual environment
@@ -44,6 +44,7 @@ python main.py "How good is Subway as a restaurant?"
 
 
 ## Notes
+- [Autogen](https://microsoft.github.io/autogen/0.2/)
 - Uses GPT-4o-mini model
 - Recommended for educational purposes
 - Supports queries like "How good is Subway as a restaurant?"
