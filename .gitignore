@@ -1,0 +1,11 @@
+.env
+.venv
+.cache
+__pycache__
+functions
+reference
+runtime-log.txt
+student_info.json
+test.py
+Instructions.md
+image.png
